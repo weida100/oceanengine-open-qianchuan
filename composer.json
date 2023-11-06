@@ -1,0 +1,19 @@
+{
+    "name": "weida/oceanengine-open-qianchuan",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Weida\\OceanengineOpenQianchuan\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Weida",
+            "email": "sgenmi@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "weida/oceanengine-core": "^v0.0.1"
+    }
+}
